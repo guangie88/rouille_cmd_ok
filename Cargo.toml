@@ -1,0 +1,8 @@
+[package]
+name = "rouille_cmd_ok"
+version = "0.1.0"
+authors = ["Chen Weiguang <chen.weiguang@gmail.com>"]
+
+[dependencies]
+hyper = "0.10"
+rouille = "=1.0.1"
